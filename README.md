@@ -1,2 +1,2 @@
-#好用的，能用的，创新的，有趣的。
+# 好用的，能用的，创新的，有趣的。
 #### useful, functional, innovative, interesting
